@@ -1,0 +1,7 @@
+cntrl + shift + p //get line to do the thing below
+julia start REPL  // starts a julia terminal, and sets up julia environment
+
+] //get the  thing below
+(@v1.5) pkg>  activate . //to set up project in current folder
+
+(Julia2) pkg> add DataFrames Query VegaDatasets VegaLite
